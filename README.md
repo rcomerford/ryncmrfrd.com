@@ -1,10 +1,3 @@
-# 😃 My Personal Website
+# My Personal Website Reroute
 
-### About
-
-This website serves as project showcase, about me page, and a place to access my resume and other past work-related details, and links to all of the projects I've worked on over the last few years and showcases my acheivements as I work towards my Software Engineering degree. My resume can be found [here](https://ryancomerford.me/resume).
-
-Below are the tools used to put the site together.
-
-* 📜 Stylesheet: [MVP.css](https://andybrewer.github.io/mvp/)
-* 🌳 Environment: [Github pages](https://pages.github.com/)
+This repo serves to reroute to [my website's new domain](https://ryancomerford.me) from the old domain.
